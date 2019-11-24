@@ -1,0 +1,33 @@
+{
+    "publisher": "Maurin3",
+    "author": "Maurine Antonis <maurin3_1994@msn.com>",
+    "description": "A dark and beautiful theme for Visual Studio Code",
+    "name": "odoo-theme",
+    "engines": {
+        "vscode": "^1.32.3"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "displayName": "Odoo Theme",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Maurin3/vscode-odoo-theme"
+    },
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Odoo Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/odoo-dark.json"
+            },
+            {
+                "label": "Odoo Light",
+                "uiTheme": "vs",
+                "path": "./themes/odoo-light.json"
+            }
+        ]
+    }
+}
