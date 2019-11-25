@@ -24,6 +24,11 @@
                 "path": "./themes/odoo-dark.json"
             },
             {
+                "label": "Odoo Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/odoo-darker.json"
+            },
+            {
                 "label": "Odoo Light",
                 "uiTheme": "vs",
                 "path": "./themes/odoo-light.json"
