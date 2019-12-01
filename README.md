@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Maurin3/vscode-miami-vibes/master/icon.png" width="30" height="30"> Odoo Theme
+# <img src="https://raw.githubusercontent.com/Maurin3/vscode-odoo-theme/master/icon.png" width="30" height="30"> Odoo Theme
 
 ## **!!!!!This theme is currently in development!!!!!!!!**
 
-![preview](https://raw.githubusercontent.com/Maurin3/vscode-miami-vibes/master/media/preview.png)
+![preview](https://raw.githubusercontent.com/Maurin3/vscode-odoo-theme/master/media/preview.png)
 
 ## Installation
 
