@@ -90,211 +90,178 @@
         "welcomePage.background": "#875A7B",
         "welcomePage.buttonBackground": "#5c3d54"
     },
-    "name": "Odoo Dark",
-    // "tokenColors": [
-    //     {
-    //         "name": "Built-in constant",
-    //         "scope": "constant.language",
-    //         "settings": {
-    //             "foreground": "#f280d0"
-    //         }
-    //     },
-    //     {
-    //         "name": "Class name",
-    //         "scope": [
-    //             "entity.name.class",
-    //             "entity.name.type"
-    //         ],
-    //         "settings": {
-    //             "fontStyle": "underline",
-    //             "foreground": "#188181"
-    //         }
-    //     },
-    //     {
-    //         "name": "Comment",
-    //         "scope": "comment",
-    //         "settings": {
-    //             "foreground": "#6B6D70"
-    //         }
-    //     },
-    //     {
-    //         "name": "Function argument",
-    //         "scope": "variable.parameter",
-    //         "settings": {
-    //             "fontStyle": "italic",
-    //             "foreground": "#848afb"
-    //         }
-    //     },
-    //     {
-    //         "name": "Function name",
-    //         "scope": "entity.name.function",
-    //         "settings": {
-    //             "fontStyle": "bold",
-    //             "foreground": "#61387a"
-    //         }
-    //     },
-    //     {
-    //         "name": "Inherited class",
-    //         "scope": "entity.other.inherited-class",
-    //         "settings": {
-    //             "fontStyle": "italic underline",
-    //             "foreground": "#188181"
-    //         }
-    //     },
-    //     {
-    //         "name": "Invalid deprecated",
-    //         "scope": "invalid.deprecated",
-    //         "settings": {
-    //             "foreground": "#F8F8F0"
-    //         }
-    //     },
-    //     {
-    //         "name": "Invalid",
-    //         "scope": "invalid",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#F8F8F0"
-    //         }
-    //     },
-    //     {
-    //         "name": "Keyword",
-    //         "scope": "keyword",
-    //         "settings": {
-    //             "foreground": "#7ee7e7"
-    //         }
-    //     },
-    //     {
-    //         "name": "Library class/type",
-    //         "scope": [
-    //             "support.class",
-    //             "support.type"
-    //         ],
-    //         "settings": {
-    //             "fontStyle": "italic",
-    //             "foreground": "#9966b8"
-    //         }
-    //     },
-    //     {
-    //         "name": "Library constant",
-    //         "scope": "support.constant",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#9966b8"
-    //         }
-    //     },
-    //     {
-    //         "name": "Library function",
-    //         "scope": "support.function",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#9966b8"
-    //         }
-    //     },
-    //     {
-    //         "name": "Library variable",
-    //         "scope": "support.other.variable",
-    //         "settings": {
-    //             "fontStyle": ""
-    //         }
-    //     },
-    //     {
-    //         "name": "Number",
-    //         "scope": "constant.numeric",
-    //         "settings": {
-    //             "foreground": "#e77eab"
-    //         }
-    //     },
-    //     {
-    //         "name": "Storage type",
-    //         "scope": "storage.type",
-    //         "settings": {
-    //             "fontStyle": "italic",
-    //             "foreground": "#a273bf"
-    //         }
-    //     },
-    //     {
-    //         "name": "Storage",
-    //         "scope": "storage",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#a273bf"
-    //         }
-    //     },
-    //     {
-    //         "name": "String",
-    //         "scope": "string",
-    //         "settings": {
-    //             "foreground": "#00A09D"
-    //         }
-    //     },
-    //     {
-    //         "name": "Tag attribute",
-    //         "scope": "entity.other.attribute-name",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#535bf9"
-    //         }
-    //     },
-    //     {
-    //         "name": "Tag name",
-    //         "scope": "entity.name.tag",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#848afb"
-    //         }
-    //     },
-    //     {
-    //         "name": "User-defined constant",
-    //         "scope": [
-    //             "constant.character",
-    //             "constant.other"
-    //         ],
-    //         "settings": {
-    //             "foreground": "#f280d0"
-    //         }
-    //     },
-    //     {
-    //         "name": "Variable",
-    //         "scope": "variable",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#df5390"
-    //         }
-    //     },
-    //     {
-    //         "name": "diff: changed",
-    //         "scope": "markup.changed",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#cb4b16"
-    //         }
-    //     },
-    //     {
-    //         "name": "diff: deleted",
-    //         "scope": "markup.deleted",
-    //         "settings": {
-    //             "fontStyle": "",
-    //             "foreground": "#dc322f"
-    //         }
-    //     },
-    //     {
-    //         "name": "diff: header",
-    //         "scope": [
-    //             "meta.diff",
-    //             "meta.diff.header"
-    //         ],
-    //         "settings": {
-    //             "fontStyle": "italic",
-    //             "foreground": "#E0EDDD"
-    //         }
-    //     },
-    //     {
-    //         "name": "diff: inserted",
-    //         "scope": "markup.inserted",
-    //         "settings": {
-    //             "foreground": "#219186"
-    //         }
-    //     }
-    // ],
+    "name": "Odoo Purple",
+    "tokenColors": [
+        {
+            "name": "Built-in constant",
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#875A7B"
+            }
+        },
+        {
+            "name": "Class name",
+            "scope": [
+                "entity.name.class",
+                "entity.name.type"
+            ],
+            "settings": {
+                "fontStyle": "underline",
+                "foreground": "#00A09D"
+            }
+        },
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "settings": {
+                "foreground": "#8F8F8F"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.parameter",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#62495B"
+            }
+        },
+        {
+            "name": "Function name",
+            "scope": "entity.name.function",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#875A7B"
+            }
+        },
+        {
+            "name": "Inherited class",
+            "scope": "entity.other.inherited-class",
+            "settings": {
+                "fontStyle": "Nitalic underline",
+                "foreground": "#00A09D"
+            }
+        },
+        {
+            "name": "Invalid deprecated",
+            "scope": "invalid.deprecated",
+            "settings": {
+                "foreground": "#020202"
+            }
+        },
+        {
+            "name": "Invalid",
+            "scope": "invalid",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#020202"
+            }
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#6B6D70"
+            }
+        },
+        {
+            "name": "Library class/type",
+            "scope": [
+                "support.class",
+                "support.type"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#00A09D"
+            }
+        },
+        {
+            "name": "Library constant",
+            "scope": "support.constant",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#6B6D70"
+            }
+        },
+        {
+            "name": "Library function",
+            "scope": "support.function",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#875A7B"
+            }
+        },
+        {
+            "name": "Library variable",
+            "scope": "support.other.variable",
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#e77eab"
+            }
+        },
+        {
+            "name": "Storage type",
+            "scope": "storage.type",
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#5C3D54"
+            }
+        },
+        {
+            "name": "Storage",
+            "scope": "storage",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#5C3D54"
+            }
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "settings": {
+                "foreground": "#875A7B"
+            }
+        },
+        {
+            "name": "Tag attribute",
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#5c3d54"
+            }
+        },
+        {
+            "name": "Tag name",
+            "scope": "entity.name.tag",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#875A7B"
+            }
+        },
+        {
+            "name": "User-defined constant",
+            "scope": [
+                "constant.character",
+                "constant.other"
+            ],
+            "settings": {
+                "foreground": "#00A09D"
+            }
+        },
+        {
+            "name": "Variable",
+            "scope": "variable",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#00A09D"
+            }
+        }
+    ],
     "type": "dark"
 }
