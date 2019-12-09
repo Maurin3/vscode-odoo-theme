@@ -19,14 +19,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Odoo Purple",
+                "label": "Odoo Dark (Bordered)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/odoo-purple.json"
+                "path": "./themes/odoo-dark-border.json"
             },
             {
                 "label": "Odoo Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/odoo-dark.json"
+            },
+            {
+                "label": "Odoo Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/odoo-purple.json"
             },
             {
                 "label": "Odoo Light",
