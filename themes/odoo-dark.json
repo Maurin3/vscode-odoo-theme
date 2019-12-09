@@ -44,7 +44,7 @@
         "list.focusBackground": "#21272B",
         "list.focusForeground": "#875A7B",
         "list.highlightForeground": "#971c51",
-        "list.hoverBackground": "#282F33",
+        "list.hoverBackground": "#21272B",
         "list.hoverForeground": "#875A7B",
         "list.inactiveSelectionBackground": "#21272B",
         "list.inactiveSelectionForeground": "#875A7B",
@@ -56,6 +56,8 @@
         "peekViewTitle.background": "#21272B",
         "peekViewTitleDescription.foreground": "#F0F0F0",
         "peekViewTitleLabel.foreground": "#875A7B",
+        "pickerGroup.foreground": "#875A7B",
+        "pickerGroup.border": "#875A7B",
         "scrollbar.shadow": "#010219AA",
         "scrollbarSlider.activeBackground": "#6b72fa28",
         "scrollbarSlider.background": "#6b72fa28",
@@ -168,7 +170,7 @@
         },
         {
             "name": "JSON Key",
-            "scope": "support.type.property-name",
+            "scope": "support.type.property-name.json",
             "settings": {
                 "foreground": "#00A09D"
             }
