@@ -4,6 +4,7 @@
         "activityBar.foreground": "#875A7B",
         "activityBarBadge.background": "#875A7B",
         "activityBarBadge.foreground": "#F9F9F9",
+        "activityBar.border": "#875A7B",
         "badge.background": "#875A7B",
         "badge.foreground": "#F9F9F9",
         "button.background": "#875A7B",
@@ -57,6 +58,7 @@
         "settings.textInputBorder": "#875A7B",
         "sideBar.background": "#F9F9F9",
         "sideBar.dropBackground": "#F9F9F9",
+        "sideBar.border": "#875A7B",
         "sideBarSectionHeader.background": "#F0F0F0",
         "sideBarSectionHeader.foreground": "#875A7B",
         "statusBar.background": "#875A7B",
@@ -82,7 +84,7 @@
         "welcomePage.background": "#F9F9F9",
         "welcomePage.buttonBackground": "#F0F0F0"
     },
-    "name": "Odoo Light",
+    "name": "Odoo Light Bordered",
     "tokenColors": [
         {
             "name": "Built-in constant",

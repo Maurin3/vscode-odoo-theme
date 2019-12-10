@@ -19,6 +19,21 @@
     "contributes": {
         "themes": [
             {
+                "label": "Odoo Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/odoo-purple.json"
+            },
+            {
+                "label": "Odoo Light (Bordered)",
+                "uiTheme": "vs",
+                "path": "./themes/odoo-light-border.json"
+            },
+            {
+                "label": "Odoo Light",
+                "uiTheme": "vs",
+                "path": "./themes/odoo-light.json"
+            },
+            {
                 "label": "Odoo Dark (Bordered)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/odoo-dark-border.json"
@@ -28,16 +43,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/odoo-dark.json"
             },
-            {
-                "label": "Odoo Purple",
-                "uiTheme": "vs-dark",
-                "path": "./themes/odoo-purple.json"
-            },
-            {
-                "label": "Odoo Light",
-                "uiTheme": "vs",
-                "path": "./themes/odoo-light.json"
-            }
         ]
     }
 }

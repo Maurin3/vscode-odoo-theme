@@ -96,7 +96,7 @@
             "name": "Built-in constant",
             "scope": "constant.language",
             "settings": {
-                "foreground": "#875A7B"
+                "foreground": "#d1a9c7"
             }
         },
         {
@@ -130,7 +130,7 @@
             "scope": "entity.name.function",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#875A7B"
+                "foreground": "#d1a9c7"
             }
         },
         {
@@ -188,7 +188,7 @@
             "scope": "support.function",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#875A7B"
+                "foreground": "#d1a9c7"
             }
         },
         {
@@ -203,7 +203,7 @@
             "name": "Number",
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#E46F78"
+                "foreground": "#e0adb1"
             }
         },
         {
@@ -211,7 +211,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#5B899E"
+                "foreground": "#e0adb1"
             }
         },
         {
@@ -226,7 +226,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#A3508D"
+                "foreground": "#ab84a0"
             }
         },
         {
@@ -242,7 +242,7 @@
             "scope": "entity.name.tag",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#875A7B"
+                "foreground": "#d1a9c7"
             }
         },
         {
