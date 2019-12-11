@@ -1,5 +1,6 @@
 {
     "colors": {
+        "foreground": "#e0d1dc",
         "activityBar.background": "#875A7B",
         "activityBar.foreground": "#F9F9F9",
         "activityBarBadge.background": "#F9F9F9",
@@ -13,6 +14,7 @@
         "dropdown.background": "#5c3d54",
         "dropdown.listBackground": "#875A7B",
         "editor.background": "#875A7B",
+        "editor.foreground":"#e0d1dc",
         "editor.findMatchBackground": "#5c3d5477",
         "editor.findMatchHighlightBackground": "#5c3d5455",
         "editor.hoverHighlightBackground": "#5c3d5477",
@@ -107,14 +109,14 @@
             ],
             "settings": {
                 "fontStyle": "underline",
-                "foreground": "#00A09D"
+                "foreground": "#33fffc"
             }
         },
         {
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#8F8F8F"
+                "foreground": "#b3b3b3"
             }
         },
         {
@@ -138,14 +140,14 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "italic underline",
-                "foreground": "#00A09D"
+                "foreground": "#33fffc"
             }
         },
         {
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-                "foreground": "#020202"
+                "foreground": "#F0F0F0"
             }
         },
         {
@@ -153,7 +155,7 @@
             "scope": "invalid",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#020202"
+                "foreground": "#F0F0F0"
             }
         },
         {
@@ -161,7 +163,7 @@
             "scope": "keyword",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#2d807e"
+                "foreground": "#68cac8"
             }
         },
         {
@@ -172,7 +174,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#a3508d"
+                "foreground": "#c487b4"
             }
         },
         {
@@ -226,7 +228,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#ab84a0"
+                "foreground": "#cd98bf"
             }
         },
         {
@@ -234,7 +236,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#E46F78"
+                "foreground": "#efa9af"
             }
         },
         {
