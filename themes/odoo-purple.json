@@ -247,7 +247,7 @@
                 "foreground": "#d1a9c7"
             }
         },
-        // take 6à-80% (w3schools)
+        // take 60-80% (w3schools)
         {
             "name": "User-defined constant",
             "scope": [
