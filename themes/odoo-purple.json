@@ -56,6 +56,7 @@
         "peekViewTitle.background": "#5c3d54",
         "peekViewTitleDescription.foreground": "#F9F9F9",
         "peekViewTitleLabel.foreground": "#F0F0F0",
+        "progressBar.background": "#F0F0F0",
         "scrollbar.shadow": "#282F3355",
         "scrollbarSlider.activeBackground": "#282F3355",
         "scrollbarSlider.background": "#282F3355",
