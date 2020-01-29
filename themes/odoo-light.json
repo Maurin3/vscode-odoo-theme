@@ -27,6 +27,8 @@
         "editorWidget.background": "#F0F0F0",
         "editorWidget.border": "#875A7B",
         "editorSuggestWidget.foreground": "#F0F0F0",
+        "editorOverviewRuler.findMatchForeground": "#971c51",
+        "minimap.findMatchHighlight": "#971c51",
         "focusBorder": "#875A7B",
         "gitlens.trailingLineForegroundColor": "#6b72faAA",
         "input.background": "#F0F0F0",

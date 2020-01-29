@@ -34,6 +34,8 @@
         "editorWhitespace.foreground": "#545454",
         "editorWidget.background": "#282F33",
         "editorWidget.border": "#875A7B",
+        "editorOverviewRuler.findMatchForeground": "#971c51",
+        "minimap.findMatchHighlight": "#971c51",
         "focusBorder": "#875A7B",
         "gitlens.trailingLineForegroundColor": "#545454",
         "input.background": "#21272B",

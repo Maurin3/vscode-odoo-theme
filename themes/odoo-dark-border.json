@@ -32,6 +32,8 @@
         "editorLineNumber.activeForeground": "#8F8F8F",
         "editorLineNumber.foreground": "#8F8F8F",
         "editorLink.activeForeground": "#6b72fa59",
+        "editorOverviewRuler.findMatchForeground": "#971c51",
+        "minimap.findMatchHighlight": "#971c51",
         "editorWarning.foreground": "#58D68D",
         "editorWhitespace.foreground": "#545454",
         "editorWidget.background": "#282F33",
