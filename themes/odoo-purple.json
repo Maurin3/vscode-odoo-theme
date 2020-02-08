@@ -1,6 +1,6 @@
 {
     "colors": {
-        "foreground": "#e0d1dc",
+        "foreground": "#FFFFFF",
         "activityBar.background": "#3d2938",
         "activityBar.foreground": "#F9F9F9",
         "activityBarBadge.background": "#F9F9F9",
@@ -62,13 +62,13 @@
         "pickerGroup.foreground": "#F0F0F0",
         "pickerGroup.border": "#F0F0F0",
         "progressBar.background": "#F0F0F0",
-        "scrollbar.shadow": "#282F3355",
-        "scrollbarSlider.activeBackground": "#282F3355",
-        "scrollbarSlider.background": "#282F3355",
-        "scrollbarSlider.hoverBackground": "#282F3355",
+        "scrollbar.shadow": "#00000055",
+        "scrollbarSlider.activeBackground": "#00000055",
+        "scrollbarSlider.background": "#ffffff55",
+        "scrollbarSlider.hoverBackground": "#ffffff55",
         "selection.background": "#3d29384F",
-        "settings.checkboxForeground": "#875A7B",
-        "settings.headerForeground": "#3d2938",
+        "settings.checkboxForeground": "#3d2938",
+        "settings.headerForeground": "#875A7B",
         "settings.modifiedItemIndicator": "#3d2938",
         "settings.textInputBorder": "#3d2938",
         "sideBar.background": "#875A7B",
@@ -82,6 +82,7 @@
         "statusBarItem.hoverBackground": "#3d2938",
         "tab.activeBorder": "#875A7B",
         "tab.activeModifiedBorder": "#282F33",
+        "tab.activeBackground": "#875A7B",
         "tab.border": "#875A7B",
         "tab.inactiveBackground": "#3d2938",
         "tab.inactiveModifiedBorder": "#3d2938",
@@ -234,7 +235,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#ad85a3"
+                "foreground": "#cc66cc"
             }
         },
         {
@@ -242,7 +243,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#efa9af"
+                "foreground": "#e77e87"
             }
         },
         {
@@ -250,10 +251,9 @@
             "scope": "entity.name.tag",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#d1a9c7"
+                "foreground": "#b87aa8"
             }
         },
-        // take 60-80% (w3schools)
         {
             "name": "User-defined constant",
             "scope": [
@@ -261,7 +261,7 @@
                 "constant.other"
             ],
             "settings": {
-                "foreground": "#2a8280"
+                "foreground": "#2c8785"
             }
         },
         {
