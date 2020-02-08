@@ -2,7 +2,7 @@
 
 ## **!!!!!This theme is currently in development!!!!!!!!**
 
-![preview](https://raw.githubusercontent.com/Maurin3/vscode-odoo-theme/master/media/preview.png)
+
 
 ## Installation
 
